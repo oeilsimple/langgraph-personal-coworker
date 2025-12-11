@@ -1,0 +1,9 @@
+Input to test PythonREPL tool use :
+1. What is pii times 3 ?
+
+Input to test file tool, playwright tool or serper web search tool and push notification tool use :
+1. Find me a good French restaurant in NYC. Write a report in markdown to dinner.md including name, address, menu, reviews.
+Send me a push notification with the restaurant name and phone.
+2. Tell it to update the dinner.md file to remove/update some information
+
+Verify whether proper tools are getting called using Langsmith.
